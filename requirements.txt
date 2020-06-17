@@ -1,0 +1,7 @@
+requests==2.23.0
+pdf2image==1.13.1
+wget==3.2
+reportlab==3.5.42
+beautifulsoup4==4.9.1
+Bio==0.1.0
+Pillow==7.1.2

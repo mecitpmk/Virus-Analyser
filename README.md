@@ -1,6 +1,6 @@
 # Virus Analyser
 
-This Software builted for seeing viruses genome diagrams, chromosomes, gen sequences, also collected date , taxonomy , pathology, description.
+This Software builted for seeing viruses Genome Diagrams, Chromosomes, Gen Sequences, also Collected Date, Collected Country, Taxonomy, Pathology, Description.
 
 ## Installation
 

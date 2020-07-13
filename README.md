@@ -51,7 +51,7 @@ Also Chromosomes Inside pictures will be saved in project folder. Therefore, use
 ![folder_inside_chromosomes](https://user-images.githubusercontent.com/63451008/87342130-67a44e00-c553-11ea-96e8-ecda1158856a.PNG)
 
 ## Comparing Viruses
-User can compare viruses features which are taxonomy, pathology etc..
+User can compare viruses features AT THE SAME TIME which are taxonomy, pathology etc..
 ![compare_one](https://user-images.githubusercontent.com/63451008/87342456-f1ecb200-c553-11ea-8f50-91ac00f9ebf3.PNG)
 
 Also user can compare viruses gene sequences:
